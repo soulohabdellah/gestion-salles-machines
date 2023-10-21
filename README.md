@@ -1,7 +1,11 @@
 I- Gestion des machines : 
 1) L'ajout d'une machine :
+
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/c427fb07-951c-4b45-a846-ef8e8e2b9f62)
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/a222189b-26e3-4c52-a2b9-dce52ce57811)
+
+2) Modification d'une machine :
+
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/0323bcac-693f-47d0-97dd-f61866cf4164)
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/4b2e7660-007c-4a00-8772-f5e58f80eca3)
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/ae75aea0-09e5-4ba5-ae5e-7be4a34deec0)
