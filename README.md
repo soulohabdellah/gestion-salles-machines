@@ -24,12 +24,12 @@ II - Gestion des salles :
 2) Modification d'une salle :
 
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/6946d181-e642-469e-81ab-456021d8cef2)
-![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/d3c50dcd-c40f-4349-8817-564c3840c2f1)
+![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/9ede4b42-c560-45d4-a3cb-e346c1cccf40)
 
 3) Suppression d'une salle :
 
 ![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/9d390fb9-b943-41da-8004-e1f67add9698)
-![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/9ede4b42-c560-45d4-a3cb-e346c1cccf40)
+![image](https://github.com/soulohabdellah/gestion-salles-machines/assets/95103495/d3c50dcd-c40f-4349-8817-564c3840c2f1)
 
 III - Affichage machines par salle :
 
